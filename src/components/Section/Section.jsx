@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import s from './Section.module.css'
-import Container from '../Container/Container';
+import Container from '../Container';
 
 const Section = ({children, title}) => {
   return (
